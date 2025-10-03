@@ -27,5 +27,11 @@
         "titleBar.inactiveBackground": "#36454f99",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#36454f"
+    "peacock.color": "#36454f",
+    "favorites.resources": [
+        {
+            "filePath": "index.html",
+            "group": "Default"
+        }
+    ]
 }
